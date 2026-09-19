@@ -81,15 +81,18 @@ Open browser and visit
 | `npm run preview`| Preview production build        |
 
 ## 🎨 UI Theme
+```
 Primary Color: Emerald (#059669)
 Accent: Teal gradient
 Clean white cards with soft shadows
 Rounded corners & modern spacing
 Mobile-first responsive design
+```
 
 
 
 ## 🔮 Future Improvements
+```
 Backend integration (Node.js + MongoDB / Firebase)
 Real authentication (JWT / Firebase Auth)
 Payment gateway integration
@@ -98,6 +101,7 @@ User profile & address management
 Prescription upload feature
 Dark mode toggle
 PWA support
+```
 
 
 
