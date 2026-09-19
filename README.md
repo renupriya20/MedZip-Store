@@ -67,11 +67,14 @@ medizap/
    npm install -D tailwindcss @tailwindcss/vite
    ```
 
-Run the development server
+## Run the development server
+```
 npm run dev
-
-Open browser and visit
-```http://localhost:5173```
+```
+## Open browser and visit
+```
+http://localhost:5173
+```
 
 ## 📦 Available Scripts
 | Command          | Description                     |
